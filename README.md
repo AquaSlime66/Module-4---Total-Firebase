@@ -6,10 +6,11 @@ My plan for this module, was to revist the code I had previously used, and tweak
 
 
 [Demo Project Working Link](https://workinghabitdemo.web.app./projects.html)
-[Software Demo Video](http://youtube.link.goes.here)
+[Firebase Database Connection Video](https://youtu.be/JfRzfDv9XzA)
+[Firebase Basic Site Demo](https://youtu.be/GEYdhpre4R8)
 
 # Cloud Database
-The inteneded Firebase database for the final project was supposed to have a field of a user or their authentication, and then within that user, the habit itself. This habit would contain an ID, the date it starts, ends, png coordinates of the habit sprite, and other details relating to the habit.
+The intended Firebase database for the final project was supposed to have a field of a user or their authentication, and then within that user, the habit itself. This habit would contain an ID, the date it starts, ends, png coordinates of the habit sprite, and other details relating to the habit.
 
 The tutorial database that works just holds Projects and a brief description of them.
 

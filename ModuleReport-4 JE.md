@@ -2,8 +2,7 @@
 
 |Name|Date|Teacher|
 |-|-|-|
-| | | |
-
+|Jacob Emhoff |4/5/2025 |Brother Porter McGary
 ### Project Repository Link
 [Firebase Github Repository Link](https://github.com/AquaSlime66/Module-4---Total-Firebase.git)
 [Project Database Link](https://workinghabitdemo.web.app./projects.html)
@@ -31,8 +30,8 @@ Complete the following checklist to make sure you completed all parts of the mod
 |Did you implement the entire set of unique requirements as described in the Module Description document in I-Learn? |No | As described in the readME(s) I did not complete the assignment.|
 |Did you write at least 100 lines of code in your software and include useful comments?                              |Yes*    | I made some of the Javascript from ChatGPT and other projects, but it was mostly provided from the tutorials. |
 |Did you use the correct README.md template from the Module Description document in I-Learn?                         | Yes| |
-|Did you completely populate the README.md template?                                                                 | | |
-|Did you create the video, publish it on YouTube, and reference it in the README.md file?                            | | |
+|Did you completely populate the README.md template?                                                                 | Yes| |
+|Did you create the video, publish it on YouTube, and reference it in the README.md file?                            | Yes| |
 |Did you publish the code with the README.md (in the top-level folder) into a public GitHub repository?              | Yes| |
  
 
